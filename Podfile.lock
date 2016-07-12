@@ -1,0 +1,32 @@
+PODS:
+  - AFNetworking (3.1.0):
+    - AFNetworking/NSURLSession (= 3.1.0)
+    - AFNetworking/Reachability (= 3.1.0)
+    - AFNetworking/Security (= 3.1.0)
+    - AFNetworking/Serialization (= 3.1.0)
+    - AFNetworking/UIKit (= 3.1.0)
+  - AFNetworking/NSURLSession (3.1.0):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/Reachability (3.1.0)
+  - AFNetworking/Security (3.1.0)
+  - AFNetworking/Serialization (3.1.0)
+  - AFNetworking/UIKit (3.1.0):
+    - AFNetworking/NSURLSession
+  - AMTumblrHud (1.0.0)
+  - MBProgressHUD (0.9.2)
+
+DEPENDENCIES:
+  - AFNetworking (~> 3.0)
+  - AMTumblrHud (= 1.0.0)
+  - MBProgressHUD
+
+SPEC CHECKSUMS:
+  AFNetworking: 5e0e199f73d8626b11e79750991f5d173d1f8b67
+  AMTumblrHud: 016e04278b79269338776f2002900bd4d1011ec7
+  MBProgressHUD: 1569cf7ace17a8bac47aabfbb8580a49690386d1
+
+PODFILE CHECKSUM: 751935d2679fa7fe20b9575e7617810db8481e0e
+
+COCOAPODS: 1.0.1
